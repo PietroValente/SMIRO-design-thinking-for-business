@@ -1,1 +1,1 @@
-# design-thinking-for-business
+# SMIRO
