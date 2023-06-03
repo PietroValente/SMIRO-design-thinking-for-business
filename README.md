@@ -7,6 +7,8 @@
 ## Overview
 The SMIRO project aims to increase awareness and prevention for the disease Neovascular Age-related Macular Degeneration (nAMD). The project consists of a temporary exhibition with four rooms that is intended to be presented to Roche employees to explain the project and the company's potential involvement in the awareness and prevention of nAMD.
 
+The project has been developed following the principles of Design Thinking, which is a problem-solving approach that emphasizes understanding users' needs and creating innovative solutions.
+
 The first room, called the "Data Room," presents information on nAMD, including how common it is and what the risk factors are. The room also highlights the trends of the disease and when it becomes vision-threatening. The final wall of the room explains why Roche is a good fit for this project, citing its global reach and the company's goal of disease awareness and prevention.
 
 The second room, "Start of the Journey," simulates the experience of being diagnosed with nAMD through a dark room and the voice of a doctor.
